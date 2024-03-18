@@ -4,4 +4,4 @@ We'll see how this goes, and see whether front-end development becomes my new in
 
 - Note that images are taken from Unsplash, which are free of copyright restrictions
 
-
+View the site here: https://jxcksonli.github.io/personal_site/
