@@ -1,2 +1,5 @@
-# personal_site
-Repository for my personal site that I will create and design
+<h3>Jackson's Landing Page</h3>
+
+We'll see how this goes, and see whether front-end development becomes my new interest
+
+
