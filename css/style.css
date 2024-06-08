@@ -1,21 +1,15 @@
-.container {
-    justify-content: center;
-    align-items: center;
-    background-color: cover;
-}
-
 .header-container {
     color: white;
     display: flex;
     background: rgba(4, 59, 92, 1);
     font-family: sans-serif;
     font-weight: bold;
-    padding: 32px
+    padding: 32px;
 }
 
 .logo {
     height: 120px;
-    width: 90px;
+    width: 100px;
     border-radius: 100%;
 }
 
@@ -28,12 +22,18 @@
 
 .header-link-one{
     width: 17%;
+    padding: 30px;
+    font-size: 36px;
 }
 
 .header-link-two{
     width: 17%;
+    padding: 30px;
+    font-size: 36px;
 }
 
 .header-link-three{
     width: 17%;
+    padding: 30px;
+    font-size: 36px;
 }
