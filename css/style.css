@@ -1,7 +1,7 @@
 .header-container {
     color: white;
     display: flex;
-    background: rgba(4, 59, 92, 1);
+    background-color: #1f2937;
     font-family: sans-serif;
     font-weight: bold;
     padding: 32px;
@@ -36,4 +36,27 @@
     width: 17%;
     padding: 30px;
     font-size: 36px;
+}
+
+.middle-container{
+    background-color: #1f2937;
+    text-align: center;
+    padding: 32px;
+}
+
+.body-one{
+    display: flex;
+    padding: 54px;
+}
+
+.body-two{
+    display: flex;
+    padding: 54px;
+}
+
+
+.footer{
+    display: flex;
+    background-color: #e5e7eb;
+    padding: 64px;
 }
