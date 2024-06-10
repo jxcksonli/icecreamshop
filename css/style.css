@@ -37,3 +37,15 @@
 .four{
     background-color: white;
 }
+
+.five{
+    background-color: #1f2937;
+    flex-direction: column;
+}
+
+.copyright{
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    font-family: Helvetica;
+}
