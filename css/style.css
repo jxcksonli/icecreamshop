@@ -12,6 +12,24 @@
 .one{
     background-color: #1f2937;
     justify-content: center;
+    font-family: Helvetica;
+    font-weight: bold;
+    padding: 32px;
+    display: flex;
+    color: white;
+}
+
+.header-logo {
+    width: 50%;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+}
+
+.logo {
+    height: 120px;
+    width: 90px;
+    border-radius: 100%;
 }
 
 .two{
@@ -38,26 +56,26 @@
     background-color: white;
     padding: 36px;
     display: flex;
-    justify-content: center;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .call-to-action{
     border-radius: 25px;
     padding: 48px;
-    border: 32px;
     margin: auto;
     width: 70%;
     color: white;
     font-family: Helvetica;
     background-color: #3882f6;
     display: flex;
-
+    flex-direction: row;
+    justify-content: center;
 }
+
 .left-text {
     display: flex;
     flex-direction: column;
-    flex: 0.7 1 0%;
+    flex: 0.75 1 0%;
 }
 
 .right-button{
