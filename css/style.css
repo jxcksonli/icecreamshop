@@ -37,6 +37,9 @@
 .four{
     background-color: white;
     padding: 36px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
 }
 
 .call-to-action{
@@ -44,25 +47,26 @@
     padding: 48px;
     border: 32px;
     margin: auto;
-    width: 80%;
+    width: 70%;
     color: white;
     font-family: Helvetica;
     background-color: #3882f6;
     display: flex;
-    flex-direction: row;
 
 }
 .left-text {
     display: flex;
     flex-direction: column;
+    flex: 0.7 1 0%;
 }
 
 .right-button{
     display: flex;
     justify-content: center;
-    flex: 2 1 0%;
-    border-radius: 15px;
-    border-color: white;
+    align-self: center;
+    flex-grow: 0.2;
+    border-radius: 10px;
+    border: 2px solid white;
 }
 
 .five{
@@ -77,6 +81,5 @@
 
 .copyright{
     text-align: center;
-    font-size: 12px;
-    justify-content: center;
+    font-size: 16px;
 }
