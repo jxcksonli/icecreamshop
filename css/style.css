@@ -36,6 +36,17 @@
 
 .four{
     background-color: white;
+    padding: 52px;
+}
+
+.call-to-action{
+    border-radius: 25px;
+    padding: 64px;
+    border: 32px;
+    margin: auto;
+    width: 50%;
+    background-color: #3882f6;
+
 }
 
 .five{

@@ -1,7 +1,8 @@
-<h3>Jackson's Landing Page</h3>
+<h3>Jackson's Ice cream Shop Landing Page</h3>
 
-We'll see how this goes, and see whether front-end development becomes my new interest
+This site will be a simple landing page for an ice cream shop
 
 - Note that images are taken from Unsplash, which are free of copyright restrictions
 
-View the site here: https://jxcksonli.github.io/personal_site/
+View the site <a href="https://jxcksonli.github.io/icecreamshop/"> here!</a>
+
