@@ -36,27 +36,47 @@
 
 .four{
     background-color: white;
-    padding: 52px;
+    padding: 36px;
 }
 
 .call-to-action{
     border-radius: 25px;
-    padding: 64px;
+    padding: 48px;
     border: 32px;
     margin: auto;
-    width: 50%;
+    width: 80%;
+    color: white;
+    font-family: Helvetica;
     background-color: #3882f6;
+    display: flex;
+    flex-direction: row;
 
+}
+.left-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.right-button{
+    display: flex;
+    justify-content: center;
+    flex: 2 1 0%;
+    border-radius: 15px;
+    border-color: white;
 }
 
 .five{
     background-color: #1f2937;
     flex-direction: column;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: Helvetica;
 }
 
 .copyright{
     text-align: center;
-    color: white;
     font-size: 12px;
-    font-family: Helvetica;
+    justify-content: center;
 }
