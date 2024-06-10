@@ -1,14 +1,39 @@
 .flex-container{
     display: flex;
     flex-direction: column;
+    height: 100%;
+    margin: 0;
 }
 
 .flex-container div {
-    background: red;
-    height: 100px;
+    display: flex;
 }
 
 .one{
-    background: pink;
+    background-color: #1f2937;
     justify-content: center;
+}
+
+.two{
+    background-color: white;
+}
+
+.three{
+    background-color: #e5e7eb;
+    padding: 128px;
+    flex-direction: column;
+}
+
+.quote-content{
+    text-align: center;
+    font-size: 24px;
+}
+
+.quote-author{
+    font-size: 18px;
+    text-align: right;
+}
+
+.four{
+    background-color: white;
 }
